@@ -3,6 +3,6 @@ PythonFileTree is a recursive directory listing program that produces a depth-in
 
 Requirements:
 
-* RainbowPrint : pip install RainbowPrint（https://github.com/Mrhs121/RainbowPrint）
+* RainbowPrint : pip install RainbowPrint（ https://github.com/Mrhs121/RainbowPrint ）
 
 ![screenshots](https://github.com/Mrhs121/PythonFileTree/blob/main/PythonFileTree_screen.png)
